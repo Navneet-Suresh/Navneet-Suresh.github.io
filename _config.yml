@@ -3,11 +3,12 @@ title:        My first Jekyll Site
 tagline:      Learning to Jekyll
 baseurl:      ""
 paginate:     1
+future: true
 
 # About/contact
 author:
-  name:       Navneethkrishnan
-  url:        navneet-suresh.github.io 
+  name:       Navneethkrishnan I
+  url:        navneet-suresh.github.io
 
 # Gems
 gems:
