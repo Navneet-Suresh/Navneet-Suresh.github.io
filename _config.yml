@@ -1,7 +1,7 @@
 # Setup
 title:        Navneet
 tagline:      Blog
-baseurl:      "/"
+baseurl:      ""
 paginate:     1
 future: true
 
