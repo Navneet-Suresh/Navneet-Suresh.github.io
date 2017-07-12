@@ -1,7 +1,7 @@
 # Setup
-title:        My first Jekyll Site
-tagline:      Learning to Jekyll
-baseurl:      ""
+title:        Navneet
+tagline:      Blog
+baseurl:      "/"
 paginate:     1
 future: true
 
