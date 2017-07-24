@@ -1,5 +1,5 @@
-# PC Partpicker [list](https://in.pcpartpicker.com/list/RCsWqk)
-##### [Price breakdown](https://in.pcpartpicker.com/list/RCsWqk/by_merchant/)
+# [PC Partpicker](https://in.pcpartpicker.com/list/RCsWqk)
+##### List of parts
 _Note:_
 > This build was specifically made to be an editing/gaming machine and at that time this was the best I could do. ^NKI
 
