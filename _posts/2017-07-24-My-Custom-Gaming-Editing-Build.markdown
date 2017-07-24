@@ -21,7 +21,8 @@ _Note:_
 
 Prices include shipping, taxes, and discounts when available
 
-* Updated as of (24-07-17) | 
+* Updated as of (24-07-17)
 > Built by [technavneet](http://www.technavneet.com)
+
 ![technavneet signature](https://cdn.rawgit.com/Navneet-Suresh/media/6aead988b29693478e1d3f699fe206f9474df05b/photos/forum-signature.jpg)
 
