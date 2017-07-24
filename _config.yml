@@ -1,5 +1,5 @@
 # Setup
-title:        Navneethkrishnan I
+title:        Flowing Thoughts
 tagline:      Personal Blog
 baseurl:      ""
 paginate:     1
@@ -7,7 +7,7 @@ future: true
 
 # About/contact
 author:
-  name:       Navneethkrishnan I
+  name:       Navneethakrishnan I
   url:        navneet-suresh.github.io
 
 # Gems
