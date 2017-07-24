@@ -1,4 +1,4 @@
-[url=https://in.pcpartpicker.com/list/RCsWqk]PCPartPicker part list[/url] / [url=https://in.pcpartpicker.com/list/RCsWqk/by_merchant/]Price breakdown by merchant[/url]
+[url=https://in.pcpartpicker.com/list/RCsWqk]PCPartPicker] part list[/url] / [url=https://in.pcpartpicker.com/list/RCsWqk/by_merchant/]Price] breakdown by merchant[/url]
 
 [b]CPU:[/b] [url=https://in.pcpartpicker.com/product/xwhj4D/intel-cpu-bx80662i56500]Intel - Core i5-6500 3.2GHz Quad-Core Processor[/url]  (Purchased For ₹15000.00) 
 [b]Motherboard:[/b] [url=https://in.pcpartpicker.com/product/kcH48d/asrock-b150m-pro4hyper-micro-atx-lga1151-motherboard-b150m-pro4hyper]ASRock - B150M Pro4/Hyper Micro ATX LGA1151 Motherboard[/url]  (Purchased For ₹7000.00) 
