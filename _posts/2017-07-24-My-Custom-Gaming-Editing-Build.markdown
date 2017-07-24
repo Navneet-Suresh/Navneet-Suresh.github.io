@@ -18,6 +18,7 @@ _Note:_
 | **Additional Fans:** | Circle Stay Cool **CG-12 120MM Red LED** | _₹450.00_ |
 | **Case:** | Antec **GX200 w/ Window** | _₹2900.00_ |
 | **Monitor:** | LG **24MP88HM-S** | _₹18000.00_ | 
+| **Led Lighting** | Generic Molex Red LED | ₹250 |
 
 Prices include shipping, taxes, and discounts when available
 
