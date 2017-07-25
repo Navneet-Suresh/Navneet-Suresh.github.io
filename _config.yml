@@ -8,7 +8,7 @@ future: true
 # About/contact
 author:
   name:       Navneethakrishnan I
-  url:        navneet-suresh.github.io
+  url:        https://navneet-suresh.github.io
 
 # Gems
 gems:
