@@ -1,3 +1,8 @@
+---
+layout: post
+title: My Custom Built Gaming/Editing Rig
+---
+
 # [PC Partpicker](https://in.pcpartpicker.com/list/RCsWqk)
 ### **List of parts**
 _Note:_
