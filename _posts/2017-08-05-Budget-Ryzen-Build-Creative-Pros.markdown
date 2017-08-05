@@ -3,11 +3,11 @@ layout: post
 title: Build Guide - Budget Ryzen Build for Creative Pro's Late 2017
 ---
 
-<img src="https://cdn.rawgit.com/Navneet-Suresh/media/4bec4bbf/photos/169751_RYZEN_E_RGB.jpg" height="35%" width="35%">
-
 # [Build Guide: Budget Ryzen Build for Creative Pro's - Late 2017](https://in.pcpartpicker.com/list/JWT3Yr)
 
 This Build is aimed at Creative professionals who want a good Editing RIG at a great value. _Monitor_ Price is Included in the **Build**.
+
+<img src="https://cdn.rawgit.com/Navneet-Suresh/media/4bec4bbf/photos/169751_RYZEN_E_RGB.jpg" height="35%" width="35%">
 
 ### Note:
 > Prices may vary(Current prices are based on Local Rates), and You can choose different components based on your _needs_ and _budget_. **NKI**
@@ -29,7 +29,7 @@ This Build is aimed at Creative professionals who want a good Editing RIG at a g
 | **Total** |  | _₹75,899.00_ (All prices may vary) |
 
 
-* Updated as of (05-08-17)
+* Updated as of (05-08-17).
 #### Want a Custom Built System? Contact [US](http://www.technavneet.com/contact/) to get started! 
 > Published by [Navneethakrishnan.I](http://www.technavneet.com)
 
