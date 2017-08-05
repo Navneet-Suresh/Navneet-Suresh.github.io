@@ -10,7 +10,7 @@ title: Build guide: Budget Ryzen Build -Late 2017
 This Build is aimed at Creative professionals who want a good Editing RIG at a great value.
 
 ### Note:
-> Prices may vary(Current prices are based on Local Rates, and You can choose different components based on your _needs_ and _budget_. **NKI**
+> Prices may vary(Current prices are based on Local Rates), and You can choose different components based on your _needs_ and _budget_. **NKI**
 
 ### **List of parts**
 | Parts | Description | Prices |
