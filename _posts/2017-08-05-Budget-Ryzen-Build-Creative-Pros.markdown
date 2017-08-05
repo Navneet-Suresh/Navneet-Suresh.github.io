@@ -28,6 +28,7 @@ This Build is aimed at Creative professionals who want a good Editing RIG at a g
 | **Monitor:** | LG [**24MP88HM-S**](http://www.lgbrandstore.com/in/it-projector/it/ips-monitor/24mp88hv-s.html) 24" Borderless IPS MONITOR | _₹18000.00_ | 
 | **Total** |  | _₹75,899.00_ (All prices may vary) |
 
+
 * Updated as of (05-08-17)
 Want a Custom Built System? Check [our Site](http://www.technavneet.com/contact/) to learn more! 
 > Published by [Navneethakrishnan.I](http://www.technavneet.com)
