@@ -25,7 +25,7 @@ This Build is aimed at Creative professionals who want a good Editing RIG at a g
 | **PSU:** | Antec -  [VP500P](https://in.pcpartpicker.com/product/Yf7CmG/antec-power-supply-vp500p) | _₹3999.00_ |
 | **Case:** | Antec **GX200 w/ Window** | _₹3100.00_ |
 | **Monitor:** | LG **24MP88HM-S** | _₹18000.00_ | 
-|**Total ** | | _₹75,899.00_ |
+| **Total** |  | _₹75,899.00_ |
 
 * Updated as of (05-08-17)
 Want a Custom Built System? Check [our Site](http://www.technavneet.com/contact/) to learn more! 
