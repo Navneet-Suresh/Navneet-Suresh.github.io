@@ -7,7 +7,7 @@ title: Build Guide: Budget Ryzen Build for Creative Pro's - Late 2017
 
 # [Build Guide: Budget Ryzen Build for Creative Pro's - Late 2017](https://in.pcpartpicker.com/list/JWT3Yr)
 
-This Build is aimed at Creative professionals who want a good Editing RIG at a great value.
+This Build is aimed at Creative professionals who want a good Editing RIG at a great value. _Monitor_ Price is Included in the **Build**.
 
 ### Note:
 > Prices may vary(Current prices are based on Local Rates), and You can choose different components based on your _needs_ and _budget_. **NKI**
@@ -25,7 +25,7 @@ This Build is aimed at Creative professionals who want a good Editing RIG at a g
 | **PSU:** | Antec -  [VP500P](https://in.pcpartpicker.com/product/Yf7CmG/antec-power-supply-vp500p) | _₹3999.00_ |
 | **Case:** | Antec **GX200 w/ Window** | _₹3100.00_ |
 | **Monitor:** | LG **24MP88HM-S** | _₹18000.00_ | 
-| **Total** |  | _₹75,899.00_ |
+| **Total** |  | _₹75,899.00_ (All prices are approx) |
 
 * Updated as of (05-08-17)
 Want a Custom Built System? Check [our Site](http://www.technavneet.com/contact/) to learn more! 
