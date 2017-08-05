@@ -12,7 +12,8 @@ This Build is aimed at Creative professionals who want a good Editing RIG at a g
 ### Note:
 > Prices may vary(Current prices are based on Local Rates), and You can choose different components based on your _needs_ and _budget_. **NKI**
 
-### **List of parts**
+### List of parts
+
 | Parts | Description | Prices |
 | --- | --- | --- |
 | **CPU:** |  AMD - [**Ryzen 5 1600** 3.2GHz 6-Core Processor](https://in.pcpartpicker.com/product/mV98TW/amd-ryzen-5-1600-32ghz-6-core-processor-yd1600bbaebox) 3.2GHz Quad-Core Processor | _₹17,000_ |
