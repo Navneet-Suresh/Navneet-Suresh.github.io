@@ -30,7 +30,7 @@ This Build is aimed at Creative professionals who want a good Editing RIG at a g
 
 
 * Updated as of (05-08-17)
-Want a Custom Built System? Check [our Site](http://www.technavneet.com/contact/) to learn more! 
+#### Want a Custom Built System? Contact [US](http://www.technavneet.com/contact/) to get started! 
 > Published by [Navneethakrishnan.I](http://www.technavneet.com)
 
 
