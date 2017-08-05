@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build Guide: Budget Ryzen Build for Creative Pro's - Late 2017
+title: Build Guide: Budget Ryzen Build for Creative Pro's Late 2017
 ---
 
 <img src="https://cdn.rawgit.com/Navneet-Suresh/media/4bec4bbf/photos/169751_RYZEN_E_RGB.jpg" height="35%" width="35%">
