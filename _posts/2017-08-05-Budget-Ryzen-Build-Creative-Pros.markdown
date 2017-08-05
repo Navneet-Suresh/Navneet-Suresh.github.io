@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Build guide: Budget Ryzen Build -Late 2017
+title: Build Guide: Budget Ryzen Build for Creative Pro's - Late 2017
 ---
 
 <img src="https://cdn.rawgit.com/Navneet-Suresh/media/4bec4bbf/photos/169751_RYZEN_E_RGB.jpg" height="35%" width="35%">
 
-# [Build Guide: Budget Ryzen Build for Creative Pro's](https://in.pcpartpicker.com/list/JWT3Yr)
+# [Build Guide: Budget Ryzen Build for Creative Pro's - Late 2017](https://in.pcpartpicker.com/list/JWT3Yr)
 
 This Build is aimed at Creative professionals who want a good Editing RIG at a great value.
 
