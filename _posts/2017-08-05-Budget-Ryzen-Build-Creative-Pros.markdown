@@ -29,7 +29,7 @@ This Build is aimed at Creative professionals who want a good Editing RIG at a g
 | **Total** |  | _₹81199.00_ (All prices may vary) |
 
 
-* Updated as of (05-08-17).
+* Updated as of (10-08-2017).
 #### Want a Custom Built System? Contact [US](http://www.technavneet.com/contact/) to get started! 
 > Published by [Navneethakrishnan.I](http://www.technavneet.com)
 
