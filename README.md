@@ -8,7 +8,7 @@ You can preview the site at https://navneet-suresh.github.io
 
 
 
-<img src="https://cdn.rawgit.com/Navneet-Suresh/media/ca945ca7/photos/flowingthoughts.png" width="65%" height= "65%">
+<img src="https://cdn.rawgit.com/Navneet-Suresh/media/e321e3aa/photos/FT-Design-Github.png">
 
 ## baseurl
 
