@@ -4,7 +4,8 @@ This is source code for [the blog](https://navneet-suresh.github.io).
 
 Description:
 
-You can preview the site at 
+You can preview the site at https://navneet-suresh.github.io
+
 
 
 <img src="https://cdn.rawgit.com/Navneet-Suresh/media/ca945ca7/photos/flowingthoughts.png" width="65%" height= "65%">
