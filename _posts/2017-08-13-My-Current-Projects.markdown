@@ -3,21 +3,21 @@ layout: post
 title: Projects that I am currently working on.
 ---
 
-* http://mythicalfashion.in
+# [MYTHICALFASHION](http://mythicalfashion.in)
 
 
   <img 
 src="https://cdn.rawgit.com/Navneet-Suresh/media/f1de4bab/photos/Mythicalfashion%20Snip.PNG" width="50%" >
 
 
-* http://technavneet.com
+# [TECHNAVNEET](http://technavneet.com)
 
 
   <img
 src="https://cdn.rawgit.com/Navneet-Suresh/media/f1de4bab/photos/My%20Ecommerce%20website..PNG" width="50%" >
 
 
-* http://alterkart.com
+# [ALTERKART](http://alterkart.com)
 
 
   <img 
