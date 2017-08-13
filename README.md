@@ -7,7 +7,7 @@ Description:
 You can preview the site at https://navneet-suresh.github.io
 
 
-<img src="https://cdn.rawgit.com/Navneet-Suresh/media/e82ebd1c/photos/flowingthoughts.png" WIDTH="50">
+<img src="https://cdn.rawgit.com/Navneet-Suresh/media/e82ebd1c/photos/flowingthoughts.png" WIDTH="50%">
 
 
 
