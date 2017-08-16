@@ -1,15 +1,22 @@
 # Setup
 title:        Flowing Thoughts
-tagline:      Personal Blog
+tagline:      My thoughts, views and percpective of the world.
+description:  This blog is a place where I will share my thoughts, views and my percpective on everything that touches me in my daily routine.
+author: Navneethakrishnan I
+twitter:
+  username: navneet-suresh
+logo: /favicon.png
+lang: en_US
 baseurl:      ""
 paginate:     1
 future: true
 
 # About/contact
-author:
-  name:       Navneethakrishnan I
-  url:        https://navneet-suresh.github.io
-
+social:
+  name: Navneethakrishnan
+  links:
+    - https://twitter.com/navneet-suresh
+    - https://www.facebook.com/itechnavneet
 # Gems
 gems:
   - jekyll-paginate
