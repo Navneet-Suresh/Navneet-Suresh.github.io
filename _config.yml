@@ -2,7 +2,9 @@
 title:        Flowing Thoughts
 tagline:      My thoughts, views and percpective of the world.
 description:  This blog is a place where I will share my thoughts, views and my percpective on everything that touches me in my daily routine.
-author: Navneethakrishnan I
+author: 
+  name:       Navneethakrishnan I
+  url:        https://navneet-suresh.github.io
 twitter:
   username: navneet-suresh
 logo: /assets/favicon.png
