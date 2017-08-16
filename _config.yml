@@ -6,6 +6,8 @@ author: Navneethakrishnan I
 twitter:
   username: navneet-suresh
 logo: /favicon.png
+webmaster_verifications:
+  google: 
 lang: en_US
 baseurl:      ""
 paginate:     1
@@ -21,6 +23,7 @@ social:
 gems:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 #Others
 markdown: kramdown
