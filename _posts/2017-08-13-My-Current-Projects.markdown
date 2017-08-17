@@ -5,13 +5,13 @@ title: Projects that I am currently working on.
 
 # [MYTHICALFASHION](http://mythicalfashion.in)
 
-  <img 
+  <img
 src="https://cdn.rawgit.com/Navneet-Suresh/media/f1de4bab/photos/Mythicalfashion%20Snip.PNG" width="50%" >
 
 
 #### About the site & project.
 
-> An online front for selling Handicrafted Ornaments/Jeweleries, Sarees, Mens and Women clothing.
+> An online front for selling Handcrafted Ornaments/Jeweleries, Sarees, Men's and Women's clothing.
 
 # [TECHNAVNEET](http://technavneet.com)
 
@@ -26,7 +26,7 @@ src="https://cdn.rawgit.com/Navneet-Suresh/media/f1de4bab/photos/My%20Ecommerce%
 # [ALTERKART](http://alterkart.com)
 
 
-  <img 
+  <img
   src="https://cdn.rawgit.com/Navneet-Suresh/media/404576e0/photos/Alterkart-Client%20Project.PNG" width="50%" >
 
 #### About the site
