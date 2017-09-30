@@ -2,7 +2,6 @@
 layout: post
 title:  "How to install Synergy and configure it"
 date:   2017-09-30 19:40:00
-categories: main
 ---
 
 <img 
