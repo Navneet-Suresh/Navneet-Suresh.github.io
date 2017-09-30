@@ -30,9 +30,9 @@ Sit tight.
 8. Choose the master computer. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
 9. Then Choose  Server option. </br>
 10. <img
-  src='/assets/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'> </br>
+  src='/assets/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 11. <img
-  src='/assets/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'> </br>
+  src='/assets/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 12. Once configured start Synergy application on other desktops that you want to control.
 13. Setup them as Client input the IP addr (of the server) .
 14. And viola setup is done.
@@ -46,8 +46,8 @@ Sit tight.
 
 ## Sources:
 
-- Pre-built binaries: https://github.com/brahma-dev/synergy-stable-builds
-- Source Code: https://github.com/symless/synergy-core
-- Website: http://symless.com
-- Arch-Linux Wiki on Synergy: https://wiki.archlinux.org/index.php/synergy
-- Synergy Builds Official: https://github.com/symless/synergy-core/releases
+- Pre-built binaries: [Brahma-dev](https://github.com/brahma-dev/synergy-stable-builds)
+- Source Code: [Synergy-Core](https://github.com/symless/synergy-core)
+- Website: [symless.com](http://symless.com)
+- Arch-Linux Wiki on Synergy: [Arch Linux Wiki](https://wiki.archlinux.org/index.php/synergy)
+- Synergy Builds Official: [Official Builds](https://github.com/symless/synergy-core/releases)
