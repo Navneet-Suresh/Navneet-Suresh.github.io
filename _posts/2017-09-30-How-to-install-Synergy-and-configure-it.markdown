@@ -27,15 +27,15 @@ Sit tight.
 5. That's it.
 6. For Windows get the appropriate Installer.
 7. For other unix based systems do the same.
-8. Choose the master computer. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
+8. Choose the **master computer**. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
 9. Then Choose  Server option. </br>
 10. <img
   src='/assets/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 11. <img
   src='/assets/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 12. Once configured start Synergy application on other desktops that you want to control.
-13. Setup them as Client input the IP addr (of the server) .
-14. And viola setup is done.
+13. Setup them as **Client** input the **IP addr (of the server)** .
+14. And _viola_ setup is done.
 15. Now you can easily use one keyboard and mouse over multiple PC's.
 
 ## Troubleshooting steps.
