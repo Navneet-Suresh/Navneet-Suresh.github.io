@@ -9,6 +9,8 @@ date:   2017-09-30 19:40:00
   
 # What is Synergy?
 
+**Synergy** combines your desktop devices together in to one cohesive experience. It's software for sharing your mouse and keyboard between multiple computers on your desk. It works on Windows, macOS and Linux.(excerpt from Symless's Synergy Website)
+
 **Synergy** is free and open source (free as in free speech),
 meaning you are free to run it and redistribute it with
 or without changes.
