@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Build Guide - Creative Pro's Late 2017
+comments:true
 ---
 
 # [Build Guide: Budget Ryzen Build for Creative Pro's - Late 2017](https://in.pcpartpicker.com/list/JWT3Yr)
