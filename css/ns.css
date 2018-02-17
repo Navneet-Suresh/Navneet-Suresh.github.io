@@ -157,11 +157,11 @@ background: linear-gradient(to right, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, F
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.15rem; } }
 @media screen and (max-width: 42em) { .project-tagline { font-size: 1rem; } }
 
-.main-content { word-wrap: break-word; -webkit-animation-duration: 2s; /*-webkit-animation-delay: 3s ;*/ background: #ff9966;  /* fallback for old browsers */
+.main-content { word-wrap: break-word; -webkit-animation-duration: 2s; /*-webkit-animation-delay: 3s ;*/}
+
+.main-content :first-child { margin-top: 0; background: #ff9966;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to top, #ff5e62, #ff9966);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to top, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
-
-.main-content :first-child { margin-top: 0; }
 @media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }
 @media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }
