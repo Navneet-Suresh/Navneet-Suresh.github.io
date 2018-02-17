@@ -26,6 +26,8 @@ defaults:
       path: ""
     values:
       image: /assets/ddraffft.png
+      height: 100
+      width: 100
       
 # Gems
 gems:
