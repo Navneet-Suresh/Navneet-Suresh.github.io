@@ -4,10 +4,10 @@ tagline:      My thoughts, Views and Ideas.
 description:  This blog is a place where I will share my thoughts, views and my percpective on everything that touches me in my daily routine.
 author: 
   name:       N K I
-  url:        https://navneet-suresh.github.io
+  url:        https://www.ndesignworks.in
 twitter:
-  username: navneet-suresh
-logo: /assets/favicon.png
+  username: clickme_exe
+logo: /assets/favicon-new.png
 webmaster_verifications:
   google: 
 lang: en_US
@@ -19,8 +19,14 @@ future: true
 social:
   name: Navneet
   links:
-    - https://twitter.com/clickme_exe
     - https://www.facebook.com/clickme.dng
+    
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/ddraffft.png
+      
 # Gems
 gems:
   - jekyll-paginate
