@@ -1,9 +1,9 @@
 # Setup
-title:        ddraffft.in
+title:        ddraffft.in | My personal Views,Notes etc..
 tagline:      My thoughts, Views and Ideas.
 description:  This blog is a place where I will share my thoughts, views and my percpective on everything that touches me in my daily routine.
 author: 
-  name:       Navneethakrishnan I
+  name:       N K I
   url:        https://navneet-suresh.github.io
 twitter:
   username: navneet-suresh
@@ -17,10 +17,10 @@ future: true
 
 # About/contact
 social:
-  name: Navneethakrishnan
+  name: Navneet
   links:
-    - https://twitter.com/navneet-suresh
-    - https://www.facebook.com/itechnavneet
+    - https://twitter.com/clickme_exe
+    - https://www.facebook.com/clickme.dng
 # Gems
 gems:
   - jekyll-paginate
