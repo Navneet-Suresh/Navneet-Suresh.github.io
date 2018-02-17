@@ -15,6 +15,10 @@ baseurl:      ""
 paginate:     1
 future: true
 
+#feedly configuration
+feed:
+  path: atom.xml
+
 # About/contact
 social:
   name: Navneet
