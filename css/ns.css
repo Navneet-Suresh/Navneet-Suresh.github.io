@@ -126,7 +126,9 @@
 
 * { box-sizing: border-box; }
 
-body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
+body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; background: #ff9966;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #ff5e62, #ff9966);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
 
 a { -webkit-animation-duration: 3s; -webkit-animation-delay: 0.5s; color: #c92a2a; text-decoration: none; }
 a:hover { text-decoration: underline; cursor:pointer; }
@@ -193,8 +195,4 @@ background: linear-gradient(to right, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, F
 .site-footer-owner { -webkit-animation-duration: 2s; /*-webkit-animation-delay: 3s */; display: block; font-weight: bold; }
 
 .site-footer-credits { -webkit-animation-duration: 2s; /*-webkit-animation-delay: 3s;*/ color: #819198; }
-
-background: #ff9966;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to top, #ff5e62, #ff9966);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to top, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
