@@ -47,7 +47,9 @@
       {% include page-footer.html %}
 
     </section>
-      {% include analytics.html %}
+    {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+    {% endif %}
     <script id="dsq-count-scr" src="//www-ddraffft-in.disqus.com/count.js" async></script>
   </body>
 </html>
