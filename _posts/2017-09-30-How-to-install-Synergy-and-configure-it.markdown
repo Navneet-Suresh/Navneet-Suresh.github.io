@@ -18,6 +18,8 @@ description: How to install Synergy on Multiple platforms - Windows & Linux for 
 meaning you are free to run it and redistribute it with
 or without changes.
 
+<a href="https://www.vultr.com/?ref=7311876"><img src="https://www.vultr.com/media/banner_1.png" width="728" height="90"></a>
+
  **That sounds cool!, How to set it up?**
           Well that's what I am going to teach you in this blog post.
 Sit tight.
