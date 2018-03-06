@@ -11,7 +11,7 @@ logo: /assets/favicon-new.png
 webmaster_verifications:
   google: 30ZrmRqs3RKHL3QSsK9xVyXYwjTaWKBTYP67mV_ia4g
 lang: en_US
-baseurl:      ""
+baseurl:      "https://www.ddraffft.in"
 paginate:     1
 future: true
 
