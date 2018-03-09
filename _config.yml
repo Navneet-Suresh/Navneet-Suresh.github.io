@@ -7,11 +7,12 @@ author:
   url:        https://www.ndesignworks.in
 twitter:
   username: clickme_exe
-logo: /assets/favicon-new.png
+logo: /assets/ddraffft.png
 webmaster_verifications:
   google: 30ZrmRqs3RKHL3QSsK9xVyXYwjTaWKBTYP67mV_ia4g
 lang: en_US
-baseurl:      "https://www.ddraffft.in"
+baseurl: ""
+url: "https://www.ddraffft.in"
 paginate:     1
 future: true
 
@@ -21,7 +22,7 @@ feed:
 
 # About/contact
 social:
-  name: Navneet
+  name: Navneethakrishnan I
   links:
     - https://www.facebook.com/clickme.dng
     
