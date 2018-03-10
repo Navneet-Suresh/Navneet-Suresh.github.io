@@ -194,3 +194,7 @@ background: linear-gradient(to right, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, F
 .site-footer-owner { -webkit-animation-duration: 2s; /*-webkit-animation-delay: 3s */; display: block; font-weight: bold; }
 
 .site-footer-credits { -webkit-animation-duration: 2s; /*-webkit-animation-delay: 3s;*/ color: #819198; }
+.responsive-image {
+        width: 580px;//Any width you want to set the image to.
+        max-width: 100%;
+        height: auto;}
