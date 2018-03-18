@@ -12,8 +12,8 @@
 # To use this plugin you will need to make your Instagram API credentials
 # available as environment variables below:
 #
-# ENV['JEKYLLGRAM_USER'] = {{ 237086014 }}
-# ENV['JEKYLLGRAM_KEY'] = {{ 5ada012c3f8948a5ae39943acfc9962a }}
+ENV['JEKYLLGRAM_USER'] = {{ 237086014 }}
+ENV['JEKYLLGRAM_KEY'] = {{ 5ada012c3f8948a5ae39943acfc9962a }}
 #
 # Usage in your templates:
 # You can replace the 6 below with the number of photos you wish to display
