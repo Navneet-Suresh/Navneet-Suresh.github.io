@@ -2,4 +2,4 @@ _site
 .sass-cache
 .jekyll-metadata
 .Thumbs.db
-.Gemfile.lock
+Gemfile.lock
