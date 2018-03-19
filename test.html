@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Test Page with IG posts"
+permalink: test.html
+---
+ 
+<body>
+ 
+  {% jekyllgram 6 %}
+  <a href="{{ photo.link }}" title="{{ photo.caption.text }}">
+    <img src="{{ photo.images.thumbnail.url }}" title="{{ photo.caption.text }}" />
+  </a>
+{% endjekyllgram %}
+
+</body>
