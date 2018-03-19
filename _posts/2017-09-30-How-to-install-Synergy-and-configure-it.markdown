@@ -2,7 +2,6 @@
 layout: post
 comments: true
 title:  "How to install Synergy and configure it"
-date:   2017-09-30 19:40:00
 description: How to install Synergy on Multiple platforms - Windows & Linux for Free.
 image: /assets/joao-silas-65013.jpg 
 author: N K I
