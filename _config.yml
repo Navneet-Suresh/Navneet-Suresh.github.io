@@ -42,7 +42,10 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+ 
+plugins:
+    - jekyllgram
 
-#Others
+    #Others
 markdown: kramdown
 host: 0.0.0.0
