@@ -2,6 +2,7 @@
 layout: post
 title: Projects that I am currently working on.
 ---
+Page Last updated on 07-05-2018.
 
 # [MYTHICALFASHION](http://mythicalfashion.in)
 
@@ -12,6 +13,7 @@ src="https://cdn.rawgit.com/Navneet-Suresh/media/f1de4bab/photos/Mythicalfashion
 #### About the site & project.
 
 > An online front for selling Handcrafted Ornaments/Jeweleries, Sarees, Men's and Women's clothing.
+> under makeover.
 
 # [TECHNAVNEET](http://technavneet.com)
 
@@ -31,4 +33,5 @@ src="https://cdn.rawgit.com/Navneet-Suresh/media/f1de4bab/photos/My%20Ecommerce%
 
 #### About the site
 
-> Site is under development.
+> An Open-Ecommerce seller platform.
+> Status: Completed. (Project handed over).
