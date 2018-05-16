@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "How to install Synergy and configure it"
+title:  "How to control multiple PC with single application - Synergy Tutorial"
 description: How to install Synergy on Multiple platforms - Windows & Linux for Free.
 image: /assets/joao-silas-65013.jpg 
 author: N K I
