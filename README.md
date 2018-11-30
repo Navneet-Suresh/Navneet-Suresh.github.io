@@ -4,11 +4,7 @@ This is source code for [the blog](https://navneet-suresh.github.io).
 
 Description:
 
-You can preview the site at https://navneet-suresh.github.io
-
-
-<img src="https://cdn.rawgit.com/Navneet-Suresh/media/e82ebd1c/photos/flowingthoughts.png" WIDTH="50%">
-
+Source code for my personal blog. It runs on Jekyll and is hosted on Github.
 
 
 # License
