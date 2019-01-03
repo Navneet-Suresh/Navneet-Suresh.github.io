@@ -21,11 +21,7 @@ comments: true
     </div>
 </header>
 
- <script>
-  fbq('track', 'ViewContent');
- </script>
-
-<p class="meta">{{ page.date | date_to_string }}</p> {% include read_time.html %}</br>
+ <p class="meta">{{ page.date | date_to_string }}</p> {% include read_time.html %}</br> <span>{{ page.last_modified_at }}</span>
 {{ content }}
 
 <br>
