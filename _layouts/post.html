@@ -12,7 +12,7 @@ comments: true
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }} |
+                    <span class="meta">Posted by {{ page.author.name }} on {{ page.date | date: "%B %-d, %Y" }} |
 <a href='https://feedly.com/i/subscription/feed/https://www.ddraffft.in/atom?cache_reset=1'  target='_blank'>
 <i class="fas fa-rss-square"></i></a>
                 </div>
@@ -21,7 +21,8 @@ comments: true
     </div>
 </header>
 
- <p class="meta">{{ page.date | date_to_string }}</p> {% include read_time.html %}</br>
+<br>{{ include read_time.html }}</br>
+
 {{ content }}
 
 <br>Dear Reader,</br>
