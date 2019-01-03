@@ -9,10 +9,10 @@ Source code for my personal blog. It runs on Jekyll and is hosted on Github.
 
 References:
 
-[1]: http://jekyllrb.com/
+• http://jekyllrb.com/
 
-[2]: https://github.com/jasonlong
+• https://github.com/jasonlong
 
-[3]: http://pages.github.com/
+• http://pages.github.com/
 
-[4]: https://github.com/jasonlong/cayman-theme
+• https://github.com/jasonlong/cayman-theme
