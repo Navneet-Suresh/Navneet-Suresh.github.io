@@ -1,6 +1,6 @@
 # Personal Blog
 
-This is source code for [the blog](https://navneet-suresh.github.io).
+[![](https://img.shields.io/github/issues/Navneet-Suresh/navneet-suresh.github.io.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/)
 
 Description:
 
