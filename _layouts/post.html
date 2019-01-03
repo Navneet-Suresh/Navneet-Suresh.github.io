@@ -21,7 +21,7 @@ comments: true
     </div>
 </header>
 
- <p class="meta">{{ page.date | date_to_string }}</p> {% include read_time.html %}</br> <span>Page last modified on {{ page.last_modified_at }}</span>
+ <p class="meta">{{ page.date | date_to_string }}</p> {% include read_time.html %}</br> <p> Page last modified on <a href="#">{{ page.last_modified_at }}</a></span>
 {{ content }}
 
 <br>
