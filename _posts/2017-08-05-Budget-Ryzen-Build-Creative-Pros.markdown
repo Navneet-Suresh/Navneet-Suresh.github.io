@@ -1,6 +1,8 @@
 ---
 layout: post
+author: N K I
 title: Build Guide - Creative Pro's Late 2017
+description: This Build is aimed at Creative professionals who want a good Editing RIG at a great value.
 comments: true
 ---
 
