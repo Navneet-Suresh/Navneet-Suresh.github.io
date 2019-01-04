@@ -1,6 +1,9 @@
 ---
 layout: post
+comments: true
 title: My Custom Built Gaming/Editing Rig
+author: N K I
+description: My Personal Gaming Rig Build Log.
 ---
 
 # [PC Partpicker](https://in.pcpartpicker.com/list/RCsWqk)
