@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Raspberry pi hosted website and mail server
+author: N K I
+description: Today I am going to share my plan to use 3 **Raspberry** pi 3 Model B to host a WordPress website and a mail server...
 ---
 
 
