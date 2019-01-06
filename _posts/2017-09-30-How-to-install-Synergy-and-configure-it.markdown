@@ -42,7 +42,7 @@ Sit tight.
 5. That's it.
 6. For Windows & Other unix based systems get the appropriate Installer.
 7.Choose the **master computer**. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
-8. Then Choose  Server option. </br>
+8. Then Choose  Server option.
 9. <img class='responsive-image' src='/assets/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 10. <img class='responsive-image' src='/assets/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 11. Once configured start Synergy application on other desktops that you want to control.
