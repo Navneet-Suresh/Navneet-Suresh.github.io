@@ -375,3 +375,10 @@ button.close {
   -moz-appearance: none;
   appearance: none;
 }
+
+.img {
+  height: auto;
+  width: 100%;
+/* even more control with max-width */
+  max-width: 720px;
+}
