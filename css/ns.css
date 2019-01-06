@@ -195,7 +195,7 @@ background: linear-gradient(to right, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, F
 
 .site-footer-credits { -webkit-animation-duration: 2s; /*-webkit-animation-delay: 3s;*/ color: #819198; }
 .responsive-image {
-        width: 580px;//Any width you want to set the image to.
+        width: 580px; /*Any width you want to set the image to.*/
         max-width: 100%;
         height: auto;}
 /* Bootstrap Code */
@@ -374,11 +374,4 @@ button.close {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-}
-
-.img {
-  height: auto;
-  width: 100%;
-/* even more control with max-width */
-  max-width: 720px;
 }
