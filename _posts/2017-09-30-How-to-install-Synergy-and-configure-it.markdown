@@ -8,7 +8,7 @@ author: N K I
 ---
 
 <img class='responsive-image' 
-  src='/assets/joao-silas-65013.jpg' alt='How to Install Synergy - Posylt Image' >
+  src='/assets/joao-silas-65013.jpg' alt='How to Install Synergy - Post Image' >
   
 # What is Synergy?
 
@@ -19,8 +19,15 @@ meaning you are free to run it and redistribute it with
 or without changes.
 You can purchase their software if you want easy setup and want to support them
 
-##### If you want a VPS to run your website or host your own instance of any selfhosted application, You should checkout Vultr.
-<a href="https://www.vultr.com/?ref=7311876"><img class='responsive-image' src="https://www.vultr.com/media/banner_1.png"></a>
+<div class="alert alert-success alert-dismissible fade show text-muted" role="alert">
+ <h4 class="alert-heading">Offers:</h4>
+ <p>If you want a VPS to run your blog or host your web-app,</p>
+ <p>You should checkout Vultr.</p>
+ <p><a href="https://www.vultr.com/?ref=7311876"><img class='responsive-image' src="https://www.vultr.com/media/banner_1.png"></a></p>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
 
  **That sounds cool!, How to set it up?**
           Well that's what I am going to teach you in this blog post.
