@@ -1,12 +1,12 @@
-<center># Personal Blog</center>
+<h1 align="center"> Personal Blog</h1>
 
-<center>[![](https://img.shields.io/github/issues/Navneet-Suresh/navneet-suresh.github.io.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![](https://img.shields.io/github/license/Navneet-Suresh/navneet-suresh.github.io.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)</center>
+<p align='center'>[![](https://img.shields.io/github/issues/Navneet-Suresh/navneet-suresh.github.io.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![](https://img.shields.io/github/license/Navneet-Suresh/navneet-suresh.github.io.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)</p>
 
-<center>## Description:</center>
+<h2 align='center'>## Description:</h2>
 
 <center>Source code for my personal blog. It runs on Jekyll and is hosted on Github.</center>
 
-![Screenshot of the website.](/assets/screenshot-demo.png)
+<center>![Screenshot of the website.](/assets/screenshot-demo.png)</center>
 
 ## References:
 
