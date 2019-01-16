@@ -3,13 +3,13 @@ layout: post
 comments: true
 title:  "How to control multiple PC with single application - Synergy Tutorial"
 description: How to install Synergy on Multiple platforms - Windows & Linux for Free.
-image: /assets/joao-silas-65013.jpg 
+image: /assets/joao-silas-65013.jpg
 author: N K I
 ---
 
-<img class='responsive-image' 
-  src='/assets/joao-silas-65013.jpg' alt='How to Install Synergy - Post Image' >
-  
+<img class='responsive-image'
+  src='/assets/media/joao-silas-65013.jpg' alt='How to Install Synergy - Post Image' >
+
 # What is Synergy?
 
 **Synergy** combines your desktop devices together in to one cohesive experience. It's software for sharing your mouse and keyboard between multiple computers on your desk. It works on Windows, macOS and Linux.(excerpt from Symless's Synergy Website)
@@ -24,9 +24,9 @@ You can purchase their software if you want easy setup and want to support them
  <p>If you want a VPS to run your blog or host your web-app,</p>
  <p>You should checkout Vultr.</p>
  <p><a href="https://www.vultr.com/?ref=7311876"><img class='responsive-image' src="https://www.vultr.com/media/banner_1.png"></a></p>
-  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
+ <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+  <span aria-hidden="true">&times;</span>
+ </button>
 </div>
 
  **That sounds cool!, How to set it up?**
@@ -40,11 +40,11 @@ Sit tight.
 3. Go to terminal **Ctrl + Alt + T**
 4. Type sudo apt install synergy (works on Ubuntu 16.04) or you can compile it from **source**.
 5. That's it.
-6. For Windows & Other unix based systems get the appropriate Installer.
+6. For Windows & Other Unix based systems get the appropriate Installer.
 7.Choose the **master computer**. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
-8. Then Choose  Server option.
-9. <img class='responsive-image' src='/assets/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
-10. <img class='responsive-image' src='/assets/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
+8. Then Choose Server option.
+9. <img class='responsive-image' src='/assets/media/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
+10.<img class='responsive-image' src='/assets/media/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 11. Once configured start Synergy application on other desktops that you want to control.
 12. Setup them as **Client** input the **IP addr (of the server)** .
 13. And _viola_ setup is done.
@@ -53,7 +53,7 @@ Sit tight.
 ## Troubleshooting steps.
 
 - Make sure the name of the desktop matches the screen name in server configuration
-- If you want to make it a startup app then you can create a startup script with help of startup manager on Ubuntu and You can do the same on Windows.
+- If you want to make it a start-up app then you can create a startup script with help of startup manager on Ubuntu and You can do the same on Windows.
 
 
 ## Sources:
