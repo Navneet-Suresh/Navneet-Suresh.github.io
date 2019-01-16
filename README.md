@@ -6,7 +6,7 @@
 
 Source code for my personal blog. It runs on Jekyll and is hosted on Github.
 
-<kbd><img src='/assets/screenshot-demo.png'/></kbd>
+<kbd><img src='/assets/favicon-196x196.png'/></kbd>
 
 <h2 id="todo-list">Todo:</h2>
 
