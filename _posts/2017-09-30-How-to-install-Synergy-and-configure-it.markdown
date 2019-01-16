@@ -41,10 +41,10 @@ Sit tight.
 4. Type sudo apt install synergy (works on Ubuntu 16.04) or you can compile it from **source**.
 5. That's it.
 6. For Windows & Other Unix based systems get the appropriate Installer.
-7.Choose the **master computer**. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
+7. Choose the **master computer**. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
 8. Then Choose Server option.
 9. <img class='responsive-image' src='/assets/media/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
-10.<img class='responsive-image' src='/assets/media/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
+10. <img class='responsive-image' src='/assets/media/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
 11. Once configured start Synergy application on other desktops that you want to control.
 12. Setup them as **Client** input the **IP addr (of the server)** .
 13. And _viola_ setup is done.
