@@ -23,7 +23,7 @@ You can purchase their software if you want easy setup and want to support them
  <h4 class="alert-heading">Offers:</h4>
  <p>If you want a VPS to run your blog or host your web-app,</p>
  <p>You should checkout Vultr.</p>
- <p><a href="https://www.vultr.com/?ref=7311876"><img class='responsive-image' src="https://www.vultr.com/media/banner_1.png"></a></p>
+ <p><a href="https://www.vultr.com/?ref=7311876"><img class='responsive-image' alt='Vultr_banner_1' src="https://www.vultr.com/media/banner_1.png"></a></p>
  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
   <span aria-hidden="true">&times;</span>
  </button>
@@ -43,8 +43,8 @@ Sit tight.
 6. For Windows & Other Unix based systems get the appropriate Installer.
 7. Choose the **master computer**. The one which will act as a relay server between multiple devices. Once done open the Synergy app on that platform.
 8. Then Choose Server option.
-9. <img class='responsive-image' src='/assets/media/Synergy Setup.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
-10. <img class='responsive-image' src='/assets/media/Synergy Setup2.PNG' alt='Setup process synergy server' width='65%' weight='65%'>
+9. <img class='responsive-image' src='/assets/media/Synergy Setup.PNG' alt='Setup process synergy server'>
+10. <img class='responsive-image' src='/assets/media/Synergy Setup2.PNG' alt='Setup process synergy server'>
 11. Once configured start Synergy application on other desktops that you want to control.
 12. Setup them as **Client** input the **IP addr (of the server)** .
 13. And _viola_ setup is done.
@@ -54,7 +54,6 @@ Sit tight.
 
 - Make sure the name of the desktop matches the screen name in server configuration
 - If you want to make it a start-up app then you can create a startup script with help of startup manager on Ubuntu and You can do the same on Windows.
-
 
 ## Sources:
 
