@@ -6,16 +6,17 @@
 
 Source code for my personal blog. It runs on Jekyll and is hosted on Github.
 
-![Screenshot of the website.](/assets/screenshot-demo.png)
+<kbd><img src='/assets/screenshot-demo.png'/></kbd>
 
-ToDo:
+<h2 id="todo-list">Todo:</h2>
 
 - [x] Add Animations
 - [x] Add Comment Support
 - [x] Accept Donations?
 - [ ] Post more regularly.
 - [ ] Move to Ghost?
-
+- [ ] Create a custom template on Jekyll if no Migration is planned for the site.
+ 
 ## References:
 
 • http://jekyllrb.com/
