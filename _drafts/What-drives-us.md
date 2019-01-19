@@ -1,0 +1,42 @@
+---
+layout: post
+comments: true
+title: What drives us? What keeps us movng forward in life?
+author: N K I
+description: In this post the author(Navneet) discusses about his view in life, motivation, needs and struggle with depression.
+---
+
+# Introduction
+I have been pondering about the thought of having or loving certain things that keeps us from getting drowned in day to day things, work, life. 
+We all feel high, low and content and yet some of us feel disappointed & stay depressed, what keeps people from falling into depression or from loosing physical fitness?
+
+## What I found out?
+What I came to know is that we all need stimulation in life. It is what causes a person to either try harder or give up. Let me explain it in layman's terms.
+Say we have two students who share similar build and skills. If we ask both of the participants to practice sprinting for one month and provide both of them the same environment/training and coaching but we don't let one of the athletes to get the required stimulus(Either by creating a circumstance where he cant enjoy the sport or where he doesn't get the results of what he envisioned.(We ask too much of him when we setup this programme.) from the exercise what we will see is the athlete who didn't have the feedback loop of exercising > stimulus will perform worse and would give up under stress than the one who had complete feedback loop.
+
+We all have our own perspective and set of needs, wants and plans for the future. We all create our own feedback loops. We may know it or not these loops shape and have a very deep impact in our lives. For me as I grew older I have thankfully had an opportunity to be self aware and expand my thinking about my habits, wants, needs expectations goals and outlook of my life. We all know that we get stimulation in many ways. Some forms are mentioned below.
+* Exercise
+* Reading
+* Watching favorite/new interesting videos or TV Shows
+* Love and Partner
+* Gifts or Things or Games, Smartphones, Programming etc list goes on. 
+* Social Media
+* Drugs or Drinks
+* Pain(In case of severely depressed people.) For them pain can be a trigger to change their though process for a short while or relieve from their hopeless condition.
+* Fearlessness i.e. doing things that can cause harm to them. Things like committing or thinking about suicide, Going and doing things which usually scares them a lot.
+
+And we all have internal priority system for the level of kick we get from each activity and which deserves more dopamine. We are wired like that from the day we start developing mentally and physically. Some people develop in a way that they form the proper links and loops and some people don't develop it naturally and don't develop the mechanism properly. I have friends who always thought less about work/studies an did things in great way and some who were geniuses but didn't succeed until later stages of life.(Citation needed in future as I am only 21 and its too soon to take it as a fact) I never had dully developed feedback loop in my life. I always seemed to do just fine but never too great. I loved breaking things/ learning about parts and using computers, cycling and drawing from young age but I never felt deep happiness and satisfied with what I did even though I was good at it and could develop it further. I had the basic stimulation loop for the tasks. Say for sketching my parents always appreciated me for my sketches and encouraged me to learn more and express more. But I quit drawing after 5th or 6th grade. My loop never matured as it didn't stand test of time. I do draw now an you can checkout my IG or Blog for the sketches but I don't feel the deep connection with my works anymore as I did in the start. I tried to force myself into creating and completing a challenge and setup a reward for myself in that challenge. The name and goal of the challenge was to sketch everyday for 365 days and post it on IG and blog. At the end of the challenge the reward was the improved skills and beautiful artwork that I would have collected over those 365 days. The reward for realistic independent of outward inputs and self-fulfilling. But I couldn't complete that challenge. I didn't know the reason at that time but now I know it very well.
+1. I didn't focus on setting up a ritual for the project.
+2. Didn't appreciate my work an self loathed my creations as I always thought or felt I could have done better.
+3. Didn't setup a reward system for each progress.
+4. Didn't have total focus on the project as a whole. I was always somewhat distracted about my plans for growing my businesses and doing the other things that I loved while sketching my art that it removed the fun aspect of it. I was not in the moment.
+5. Didn't associate it with something of great value.(Materially and spiritually)
+
+Now that I know to some extent that I don't have a very organized or developed loop, I have taken it as a last actionable step to make the change and develop it before I run out of time.
+
+The same reasons go for My reason of opting to drop out from Eng(M.E.C/Salem). I ha big plans when I joined the course and had goals and expectations to learn deeply about computers and programming develop apps and services which people(I) could use in real life scenarios. But my loop broke when we entered out computer lab for the first time. We had systems which ran on Windows XP and were taught to use MS Word, Excel and were asked to write assignments about it.(Basically write all the documents which we typed in word on paper and submit it as an assignment.) The second bullet in the head for me was when we were told that we would be taught about C programming. I was really pumped up about this but when the classes began we were taught absolute basics and even had some syntax errors which no student was interested in debugging or learning. We didn't have any real life inspired use case for the language an were taught just to cram the syntax and code to our brains. I quickly became very disappointed and soon due to my inaction about the situation at hand no control about the situation I became depressed  had made an ultimatum of either quitting the course or dying either by force or mentally (Due to stress and lack of interest in anything).
+
+As soon as I quit and gave my application I could get back the control of life and could make plans on what to do about the situation and to improve it. To move on with life.(I would like to remind that I didn't have any idea about the way mind works or about stimulation and feedback loops.) I decided to shift to Chennai and Move to a city rather than stay in that village. Village life was never a good thing for me I guess in my hindsight. Under my parents pressure I decided that I should join some course so as to keep my hopes up for the future.(I might say I have great parents who have supported me well over all my endeavours and learnt a lot about me in these past years.)
+
+As a result I joined SRM and took VISCOM. An in this period I also started planning and strategizing about my business Ideas. I wanted to be more expressive an opportunistic. I was enjoying the course and quickly built great relationship with my peers and professors. But my loop had started to corrode again. As I was utilizing my resources in an increasing manner I was running out of resources. I started loosing interest in the photography classes as there was hardly any technical knowledge shared, Tamil and Hindi were made(I came to know about it after I joined the course compulsory for the first  two years). I didnt feel justified about the time/effort that I was spending in the college doing nothing as opposed to saving the money which was to be invested for fees into building and running my businesses. I decided to quit the course before I became depressed and fell in to the crippling depression.
+In my hindsight I made a huge mistake of choosing to join and continue the thing that I hated the most.  I felt void whenever I went and attended the classes as I knew very well that all that knowledge had little to no real world use case and the teaching method was archaic at best. I started deeply researching and collecting knowledge about startups, how to run businesses and manage finances. I planned on getting funds for my venture from my parents who had already setup some funds for my higher education. I wrote plans, made priorities and then kick started my businesses.
