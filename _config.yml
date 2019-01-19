@@ -36,16 +36,14 @@ defaults:
       height: 100
       width: 100
 
-# Gems
-gems:
+# Plugins
+plugins:
+ - jekyll-last-modified-at
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
-plugins:
- - jekyll-last-modified-at
-
+  
 #Others
 markdown: kramdown
 host: 0.0.0.0
