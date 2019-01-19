@@ -38,12 +38,12 @@ defaults:
 
 # Plugins
 plugins:
- - jekyll-last-modified-at
+  - jekyll-last-modified-at
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  
+
 #Others
 markdown: kramdown
 host: 0.0.0.0
