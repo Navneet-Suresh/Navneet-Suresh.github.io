@@ -42,8 +42,9 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-last-modified-at
 
+plugins:
+ - jekyll-last-modified-at
 
 #Others
 markdown: kramdown
