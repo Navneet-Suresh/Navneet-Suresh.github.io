@@ -13,7 +13,7 @@ comments: true
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
                     <span class="meta"><a href='https://feedly.com/i/subscription/feed/https://www.ddraffft.in/atom?cache_reset=1'  target='_blank'>
-<i class="fas fa-rss-square"></i></a> Subscribe to Feedly | <b>Posted</b> by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }} & <b>Updated</b> on {{ page.last_modified_at }}.
+<i class="fas fa-rss-square"></i></a> Subscribe to Feedly | <b>Posted</b> by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }} & <b>Updated</b> on {% last_modified_at %}.
  <br><b>Read Time</b>: {% include read_time.html %}</br>
                 </div>
             </div>
