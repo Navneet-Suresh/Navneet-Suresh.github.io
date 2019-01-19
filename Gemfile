@@ -9,4 +9,3 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'jekyll-admin',
-gem 'jekyll-last-modified-at', group: :jekyll_plugins
