@@ -2,7 +2,7 @@
 title: Draft
 tagline: My thoughts, Views and Ideas
 description: This blog is a place where I will share my thoughts, views and my percpective on everything that touches me in my daily routine.
-author: 
+author:
   name: N K I
   url: https://www.ndesignworks.in
 twitter:
@@ -27,7 +27,7 @@ social:
     - https://www.facebook.com/clickme.dng
     - https://www.instagram.com/clickme.sh
     - https://www.linkedin.com/in/navneethakrishnan
-    
+
 defaults:
   - scope:
       path: ""
@@ -35,7 +35,7 @@ defaults:
       image: /assets/ddraffft.png
       height: 100
       width: 100
-      
+
 # Gems
 gems:
   - jekyll-paginate
