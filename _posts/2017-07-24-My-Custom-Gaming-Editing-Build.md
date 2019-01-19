@@ -32,6 +32,5 @@ _Note:_
 
 Prices include shipping, taxes, and discounts when available
 
-* Updated as of (24-07-17)
-> Built by [technavneet](http://www.technavneet.com)
+> Built by [Technavneet IT Solutions](http://www.technavneet.com)
 
