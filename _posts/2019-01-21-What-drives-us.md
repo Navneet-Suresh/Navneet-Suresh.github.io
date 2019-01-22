@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: What drives us? What keeps us movng forward in life?
 author: N K I
+image: https://source.unsplash.com/sHfo3WOgGTU/800x600
 description: In this post the author(Navneet) discusses about his view in life, motivation, needs and struggle with depression.
 ---
 
