@@ -3,6 +3,7 @@ layout: post
 author: N K I
 title: Build Guide - Creative Pro's Late 2017
 description: This Build is aimed at Creative professionals who want a good Editing RIG at a great value.
+image: https://cdn.staticaly.com/gh/Navneet-Suresh/media/4bec4bbf/photos/169751_RYZEN_E_RGB.jpg
 comments: true
 ---
 
@@ -10,7 +11,7 @@ comments: true
 
 This Build is aimed at Creative professionals who want a good Editing RIG at a great value. _Monitor_ Price is Included in the **Build**.
 
-<img src="https://cdn.rawgit.com/Navneet-Suresh/media/4bec4bbf/photos/169751_RYZEN_E_RGB.jpg" height="35%" width="35%">
+<img src="https://cdn.staticaly.com/gh/Navneet-Suresh/media/4bec4bbf/photos/169751_RYZEN_E_RGB.jpg" height="35%" width="35%">
 
 ### Note:
 > Prices may vary(Current prices are based on Local Rates), and You can choose different components based on your _needs_ and _budget_. **NKI**
