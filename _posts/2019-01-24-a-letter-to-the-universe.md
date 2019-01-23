@@ -19,7 +19,7 @@ Humanities greatest advantage has always been great intellect and unity(strength
 I would love to live in a society where people deeply care about themselves and by extension others. A place where there is no worry of impressing someone to get their attention, a place where you dont have to worry about increasing housing costs due to speculative pricing, where you dont have to worry about getting robbed, have a  very contrasting lifestyles, a place where every living thing is appreciated and respected.(Dogs are not let to die in streets, Cows/Animals running around street to get some drinkable water, a place where people respect each other and also have great privacy. A place where your talent and skills are placed above your certificates and degree's. A place where you join college to get educated and not get branded.
 
 Wonderful things happen because of wonderful people.
-People have power to steer their life to be their own god, have an option to either help or fight, to protect life or harm it for menial things(Check this [article on northern white rhino](https://www.theguardian.com/environment/2018/mar/20/last-male-northern-white-rhinos-death-highlights-huge-extinction-crisis).
+People have power to steer their life to be their own god, have an option to either help or fight, to protect life or harm it for menial things, Check this [article on northern white rhino](https://www.theguardian.com/environment/2018/mar/20/last-male-northern-white-rhinos-death-highlights-huge-extinction-crisis).
 
 We have ample resources, its never lack of resources that hurts us its lack of resourcefulness, proper planning and execution.
 
