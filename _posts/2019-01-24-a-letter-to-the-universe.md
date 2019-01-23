@@ -7,7 +7,7 @@ image: https://source.unsplash.com/xG8IQMqMITM/800x600
 description: Letter to the universe expressing my gratitude, sorrow and hopes.
 ---
 
-![Photo by Thought Catalog on Unsplash](https://source.unsplash.com/kBCXR-lTFDE/600x480)
+<img class="responsive-image" src="https://source.unsplash.com/kBCXR-lTFDE" alt="Photo by Thought Catalog on Unsplash">
 
 Hey Universe, 
 
