@@ -3,11 +3,11 @@ title: Draft
 tagline: My thoughts, Views and Ideas
 description: This blog is a place where I will share my thoughts, views and my percpective on everything that touches me in my daily routine.
 author:
-  name: N K I
+  name: Navneet
   url: https://www.ndesignworks.in
 twitter:
   username: clickme_exe
-logo: /assets/ddraffft.png
+logo: /assets/favicons/ddraffft.png
 webmaster_verifications:
   google: 30ZrmRqs3RKHL3QSsK9xVyXYwjTaWKBTYP67mV_ia4g
 lang: en_US
@@ -32,7 +32,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/ddraffft.png
+      image: /assets/favicons/ddraffft.png
       height: 100
       width: 100
 
