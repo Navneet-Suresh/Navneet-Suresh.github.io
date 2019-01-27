@@ -483,7 +483,7 @@ button.close {
   top: 0;
   width: 51%;
   height: 100%;
-  background: #222;
+  background: linear-gradient(to right, #ff5e62, #ff9966);
   z-index: 10;
 }
 
