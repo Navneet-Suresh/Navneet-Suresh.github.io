@@ -3,7 +3,9 @@
   
   {% include head.html %}
   <body>
-    <div id="loader-wrapper">
+      {% include page-header.html %}
+
+     <div id="loader-wrapper">
     <div id="loader"></div>
   
       <div class="loader-section section-left"></div>
@@ -11,8 +13,6 @@
   
     </div>
     <div id="content"> 
-    {% include page-header.html %}
-
     <section class="main-content animated pulse">
       
       {{ content }}
