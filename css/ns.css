@@ -483,9 +483,7 @@ button.close {
   top: 0;
   width: 51%;
   height: 100%;
-  background-image: background:#ff9966;
-  background: -webkit-linear-gradient(to top,#ff5e62,#ff9966);
-  background: linear-gradient(to top,#ff5e62,#ff9966);
+  background: #495057;
   z-index: 10;
 }
 
