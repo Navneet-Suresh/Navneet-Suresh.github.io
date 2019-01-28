@@ -519,3 +519,8 @@ button.close {
           transform: translateY(-100%);
   transition: all 0.3s 1s ease-out;
 }
+/* Typewriter effect - cursor */
+	.txt-type > .txt {
+		border-right: 0.2rem solid #b6aad7;
+		/* animation: blinker 1s linear infinite; */
+	}
