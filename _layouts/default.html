@@ -86,6 +86,13 @@ class TypeWriter {
 		setTimeout(() => this.type(), typeSpeed);
 	}
 }
+	    const init = () => {
+	const txtElement = document.querySelector(".txt-type");
+	const words = JSON.parse(txtElement.getAttribute("data-words"));
+	const wait = txtElement.getAttribute("data-wait");
+
+	new TypeWriter(txtElement, words, wait);
+};
     </script>  
     </div>
   </body>
