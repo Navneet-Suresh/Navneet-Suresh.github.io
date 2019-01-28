@@ -43,7 +43,7 @@ Hey! Want to view this site's full source code?
 Check it out here: https://git.io/fhPJP.`,
 "color: #E40042");
       
-      // TypeWriter
+// TypeWriter
 class TypeWriter {
 	constructor(txtElement, words, wait = 3000) {
 		this.txtElement = txtElement;
@@ -86,13 +86,16 @@ class TypeWriter {
 		setTimeout(() => this.type(), typeSpeed);
 	}
 }
-	    const init = () => {
+
+const init = () => {
 	const txtElement = document.querySelector(".txt-type");
 	const words = JSON.parse(txtElement.getAttribute("data-words"));
 	const wait = txtElement.getAttribute("data-wait");
 
 	new TypeWriter(txtElement, words, wait);
 };
+
+document.addEventListener("DOMContentLoaded", init());
     </script>  
     </div>
   </body>
