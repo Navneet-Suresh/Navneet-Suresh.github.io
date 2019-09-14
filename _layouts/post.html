@@ -23,7 +23,7 @@ comments: true
 
 {{ content }}
 
-<div class="alert alert-dark alert-dismissible fade text-muted show" role="alert">
+<div class="alert alert-light alert-dismissible fade show" role="alert">
 <h4 class="alert-heading">Dear Reader,</h4>
 <p> If you like the content of the website please feel free to donate a few bucks to help and support the site.</p>
 <p>Thank You,<p>
@@ -35,11 +35,6 @@ comments: true
     <span aria-hidden="true">&times;</span>
   </button>
 </div>
-
-<!-- Add YouTube Channel SUbscription box here (Disabled)
-<br> <h3>Subscribe to my YouTube channel.</h3>
-<div class="g-ytsubscribe" data-channelid="UCrG4ZzOVN2vq4RksdiinZiw" data-layout="default" data-count="default"></div></br>
- -->
 
 {% if page.comments %}
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
@@ -56,7 +51,7 @@ comments: true
 })
 
 gitalk.render('gitalk-container')
-</script>    
+</script>
 {% endif %}
 
 <script src="https://apis.google.com/js/platform.js"></script>
