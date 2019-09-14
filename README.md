@@ -1,4 +1,4 @@
-<h1 id='Repo-title'> Personal Blog</h1>
+<h1 id='Repo-title'> Source code for my blog.</h1>
 
 [![Issues](https://img.shields.io/github/issues/Navneet-Suresh/navneet-suresh.github.io.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/navneet-suresh.github.io.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Analytics](https://ga-beacon.appspot.com/UA-148019710-1/navneet-suresh.github.io/readme)](https://github.com/igrigorik/ga-beacon)
 
