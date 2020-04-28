@@ -24,10 +24,6 @@ comments: true
 {{ content }}
 
 
-<!-- START Discord Channel Embed -->
-<!--<iframe src="https://discordapp.com/widget?id=622391522528067584&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe> -->
- <!-- END Discord Channel Embed -->
-
 <div class="alert alert-warning alert-dismissible fade show" role="alert">
 <strong> Thanks for visiting my blog.</strong>
 <p> If you like the content of the website please feel free to donate a few bucks to help me support the site.</p>
@@ -45,23 +41,7 @@ comments: true
 </div>
 
 {% if page.comments %}
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-<div id="gitalk-container"></div>
-<script>
-    const gitalk = new Gitalk({
-  clientID: '7083839598a7b72c8ea0',
-  clientSecret: 'c445cf25c68d6f8b3761a79b3f1ce5e3523942f3',
-  repo: 'navneet-suresh.github.io',
-  owner: 'Navneet-Suresh',
-  admin: ['Navneet-Suresh'],
-  id: location.pathname,      // Ensure uniqueness and length less than 50
-  distractionFreeMode: false  // Facebook-like distraction free mode
-})
 
-gitalk.render('gitalk-container')
-</script>
 {% endif %}
-
-<script src="https://apis.google.com/js/platform.js"></script>
 
 <a href"javascript: onclick="window.history.back()">Back</a>
