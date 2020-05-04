@@ -1,5 +1,5 @@
 # Setup
-title: Navneet's B10g
+title: Navneet's blog
 tagline: My thoughts, Views and Ideas.
 description: This blog is a place where I will share my thoughts, views and my percpective on everything that touches me in my daily routine.
 author:
@@ -12,7 +12,7 @@ webmaster_verifications:
   google: 30ZrmRqs3RKHL3QSsK9xVyXYwjTaWKBTYP67mV_ia4g
 lang: en_US
 baseurl: ""
-url: "https://b10g.navnee.tk"
+url: "https://i.navnee.tk"
 paginate:     1
 future: true
 
