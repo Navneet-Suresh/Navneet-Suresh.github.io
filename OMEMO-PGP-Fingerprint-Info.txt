@@ -1,0 +1,21 @@
+Navneets Device Fingerprints
+
+My XMPP ID is clickme.sh@xmpp.is
+
+OMEMO:
+
+Android:
+
+A2FC13A2 5B026E54 DB182EC9 FE9600B3
+B82F93D5 72EDC134 EEB490BD 3A649071
+
+PC:
+
+E95C52FB 2313082E CDC6EE01 AB2B8610
+18EE37E0 6DC60451 E9024313 5CBF524F
+
+PGP Key can be found at : https://navneetsuresh.keybase.pub/Navneet-GPG-Public-Key.asc
+
+PGP Fingerprint: 
+
+6B4D 9727 7CA5 D955 6621 3C19 F470 05CF 2F5F 04A6
