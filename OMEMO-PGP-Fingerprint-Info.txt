@@ -14,7 +14,7 @@ PC:
 E95C52FB 2313082E CDC6EE01 AB2B8610
 18EE37E0 6DC60451 E9024313 5CBF524F
 
-PGP Key can be found at : https://navneetsuresh.keybase.pub/Navneet-GPG-Public-Key.asc
+PGP Key can be found at : https://i.navnee.tk/Navneet-GPG-Public-Key.asc
 
 PGP Fingerprint: 
 
